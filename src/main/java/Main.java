@@ -19,6 +19,10 @@ public class Main {
     }
 }
 
+<<<<<<< HEAD
 // Änderung im main-Branch
 Car car5 = new Car("black", "Mercedes", 2);
+=======
+Car car5 = new Car("white", "Tesla", 4);
+>>>>>>> merge-conflict
 factory.buildCar(car5);
