@@ -19,3 +19,6 @@ public class Main {
     }
 }
 
+// Änderung im main-Branch
+Car car5 = new Car("black", "Mercedes", 2);
+factory.buildCar(car5);
