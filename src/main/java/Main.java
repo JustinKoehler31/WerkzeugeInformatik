@@ -19,3 +19,5 @@ public class Main {
     }
 }
 
+Car car5 = new Car("white", "Tesla", 4);
+factory.buildCar(car5);
